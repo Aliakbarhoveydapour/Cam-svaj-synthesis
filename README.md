@@ -3,7 +3,7 @@
 MATLAB script for synthesizing the displacement, velocity, acceleration, and
 jerk (S-V-A-J) profiles of a multi-segment disk cam, following standard cam
 design methodology (Norton, *Design of Machinery*).
-![Diagrams](SVAJ_diagrams.png)
+
 ## Cam Motion Program
 
 | Segment | Cam Angle (deg) | Motion Type            | Displacement       |
@@ -15,6 +15,9 @@ design methodology (Norton, *Design of Machinery*).
 
 Cam speed: 250 rpm (ω = 26.18 rad/s).
 
+## Output
+The output shown as below:
+![Diagrams](SVAJ_diagrams.png)
 ## Files
 
 - `cam_design_SVAJ.m` — MATLAB script; computes and plots S, V, A, J over
