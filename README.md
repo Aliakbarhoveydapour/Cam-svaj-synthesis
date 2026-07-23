@@ -23,7 +23,7 @@ Cam speed: 250 rpm (ω = 26.18 rad/s).
 
 ## Requirements
 
-- MATLAB (no additional toolboxes required), or GNU Octave.
+- MATLAB 2023b (no additional toolboxes required)
 
 ## Usage
 
