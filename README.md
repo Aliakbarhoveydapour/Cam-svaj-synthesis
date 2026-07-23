@@ -16,7 +16,7 @@ design methodology (Norton, *Design of Machinery*).
 Cam speed: 250 rpm (ω = 26.18 rad/s).
 
 ## Output
-The output shown as below:
+The output is shown as below:
 ![Diagrams](SVAJ_diagrams.png)
 ## Files
 
