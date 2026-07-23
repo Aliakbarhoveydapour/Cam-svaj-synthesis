@@ -3,7 +3,7 @@
 MATLAB script for synthesizing the displacement, velocity, acceleration, and
 jerk (S-V-A-J) profiles of a multi-segment disk cam, following standard cam
 design methodology (Norton, *Design of Machinery*).
-
+![Diagrams](SVAJ_diagrams.png)
 ## Cam Motion Program
 
 | Segment | Cam Angle (deg) | Motion Type            | Displacement       |
